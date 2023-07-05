@@ -1,0 +1,56 @@
+baseURL: https://piyushraj927.github.io/
+languageCode: en-us
+title: My Blog
+theme: "PaperMod"
+enableRobotsTXT: true
+enableEmoji: true
+taxonomies:
+          category: categories
+          tag: tags
+          series: series
+menu:
+    main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Github
+          url: https://github.com/PiyushRaj927/
+params:
+    
+    homeInfoParams:
+        Title: Piyush Raj
+        Content: |
+            "Good friends, good books, and a sleepy conscience: this is the ideal life.”
+            ― Mark Twain 
+    socialIcons: # optional
+        - name: github
+          url: https://github.com/PiyushRaj927
+        - name: linkedin
+          url: https://www.linkedin.com/in/piyush-raj-3ba1b0229/
+        - name: email
+          url: mailto:piyushraj92739@gmail.com
+    
+    ShowShareButtons: true
+    defaultTheme: auto # to switch between dark or light according to browser theme
+    ShowReadingTime: true
+    ShowToc: true
+    TocOpen: false
+    comments: true
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+    hideSummary: false
+    ShowCodeCopyButtons: true
+    # UseHugoToc: true
+    ShowWordCount: true
+    env: production
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
