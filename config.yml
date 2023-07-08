@@ -1,6 +1,6 @@
 baseURL: https://piyushraj927.github.io/
 languageCode: en-us
-title: My Blog
+title: d3bug
 theme: "PaperMod"
 enableRobotsTXT: true
 enableEmoji: true
@@ -26,7 +26,7 @@ params:
     homeInfoParams:
         Title: Piyush Raj
         Content: |
-            "Good friends, good books, and a sleepy conscience: this is the ideal life.”
+            "Good friends, good books, and a sleepy conscience: this is the ideal life.” 
             ― Mark Twain 
     socialIcons: # optional
         - name: github
