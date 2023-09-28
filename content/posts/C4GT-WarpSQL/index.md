@@ -13,14 +13,14 @@ cover:
 ---
 
 In this blog post, I'm excited to share my incredible journey with the C4GT 2023 program
-Before diving into the details, let's begin with a brief introduction to C4GT, straight from their website:
+Before diving into the details, let's begin with a brief introduction to C4GT, their [website](https://www.codeforgovtech.in/) provides an excellent summary 
 
 >Code for GovTech (C4GT) is a unique program aimed at creating India's first active open-source  community of coders that can build and contribute to global Digital Public Goods.
 
 
 ## The Selection Process
 
-My journey with C4GT began when a friend introduced me to the program. I started by contributing to the WarpSQL project, resolving open tickets. As I grew more confident with the project, I decided to submit my project proposal. I was thrilled to be selected as a contributor for the project, and it has been an enriching experience ever since.
+My journey with C4GT began when a friend introduced me to the program. I started by contributing to the [WarpSQL](https://github.com/Samagra-Development/WarpSQL/) project, resolving open tickets. As I grew more confident with the project, I decided to submit my project proposal. I was thrilled to be selected as a contributor for the project, and it has been an enriching experience ever since.
 
 ## The Close-Knit Community 
 
