@@ -46,6 +46,8 @@ params:
     ShowPostNavLinks: true
     hideSummary: false
     ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+
     # UseHugoToc: true
     ShowWordCount: true
     env: production
